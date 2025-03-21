@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^13.1.0"
+    "chalk": "^4.0.0",
+    "commander": "^13.1.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.0.0"
   }
 }
